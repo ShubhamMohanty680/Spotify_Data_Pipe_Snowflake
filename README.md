@@ -19,3 +19,12 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 5. **AWS GLue Crawler:**  AWS Data Catalog consists of AWS Glue Crawler which crawls the data sources and identifies data formats, infer schemas and create AWS Glue Data Catalog.
 
 6. **AWS Athena:**  Amazon Athena is a interactive query service that makes it easy to analyze data stored in S3 using standard SQL. It is also used to analyze stored in Glue Data Catalog.
+
+7.  **Snowflake:** Snowflake is a cloud-based data warehouse platform that allows users to store, analyze, and exchange data securely.
+
+8. **PowerBI:** Snowflake is a cloud-based data warehousing service that allows you to store and analyze all your data in one place. It scales independently of storage and computing, making it a flexible and cost-effective solution for businesses of all sizes.
+
+
+
+### Dashboard
+![Architecture Diagram](https://github.com/user-attachments/assets/e8b4d9e6-2fb9-4cd5-8212-2e38802198d7)

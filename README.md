@@ -5,7 +5,8 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 
 ### Architecture
 ![Architecture Diagram](https://github.com/user-attachments/assets/4a6017ba-6d0d-4fa1-b25b-7aee0b99e600)
-)
+
+
 
 ### Services Used
 1. **AWS S3(Simple Storage Service):** AWS S3 is a highly saclable object storage service used for storing and retrieving any amount of data from anywhere using web. It is commonly used to store and distribute large files.
@@ -23,6 +24,8 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 7.  **Snowflake:** Snowflake is a cloud-based data warehouse platform that allows users to store, analyze, and exchange data securely.
 
 8. **PowerBI:** Snowflake is a cloud-based data warehousing service that allows you to store and analyze all your data in one place. It scales independently of storage and computing, making it a flexible and cost-effective solution for businesses of all sizes.
+
+
 
 
 

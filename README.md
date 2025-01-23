@@ -1,7 +1,9 @@
 # Spotify_Data_Pipe_Snowflake
 
 ### Introduction
-It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify API on AWS. The pipeline will retrieve data from Spotify API, transform it to a desired format, and load into AWS S3(Data Storage).
+
+In this Project created an ETL(Extract,Transform,Load) pipeline by using Spotify API on AWS cloud. The Project aims at using the playlist from Spotify API and transforming and storing cleaned data in AWS cloud storage and utilizing the data in snowflake using snowpipe.
+
 
 ### Architecture
 ![Architecture Diagram](https://github.com/user-attachments/assets/4a6017ba-6d0d-4fa1-b25b-7aee0b99e600)

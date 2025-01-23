@@ -23,7 +23,7 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 
 7.  **Snowflake:** Snowflake is a cloud-based data warehouse platform that allows users to store, analyze, and exchange data securely.
 
-8. **PowerBI:** Snowflake is a cloud-based data warehousing service that allows you to store and analyze all your data in one place. It scales independently of storage and computing, making it a flexible and cost-effective solution for businesses of all sizes.
+8. **PowerBI:** Power BI is a business analytics service by Microsoft that allows organizations to connect to various data sources, transform and clean data, create interactive visualizations, and share insights with others.
 
 
 
